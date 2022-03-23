@@ -102,7 +102,7 @@ html{
   font-family: 'Gabriela', serif;
 }
 .landing{
-  background-image: url('./images/h_img.jpg');
+  background-image: url('../images/h_img.jpg');
   /* background-position: center ; */
   background-size: cover;
   background-repeat: no-repeat;
@@ -111,15 +111,14 @@ html{
 }
 
 .services{
-    background-image: url('./images/h_img.jpg');
-    /* background-position: center ; */
+    background-image: url('../imaages/s_image.jpg');
+    background-position: center ;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 .contact{
-    background-image: url('./images/c_image.jpg');
+    background-image: url('../images/c_image.jpg');
 
     background-size: cover;
     background-repeat: no-repeat;
